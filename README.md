@@ -18,3 +18,7 @@ Speech recognition systems have revolutionized the way humans interact with mach
 
 #photo#
 
+https://github.com/sai5831/speech-recognition-system/issues/1#issue-3246430855
+
+#Demo_working#
+
